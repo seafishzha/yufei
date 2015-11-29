@@ -4,3 +4,5 @@ my github
 ---
 
 $$\sum_i x_i$$
+
+![](http://yangchao.me/assets/images/profile.png)
